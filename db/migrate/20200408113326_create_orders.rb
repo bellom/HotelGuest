@@ -3,7 +3,7 @@ class CreateOrders < ActiveRecord::Migration[6.0]
     create_table :orders do |t|
       t.string :room
       t.string :item
-      # t.integer :quantity
+      t.integer :quantity
 
       t.timestamps
     end
