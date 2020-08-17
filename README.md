@@ -2,8 +2,7 @@
 
 
 
-<img width="718" alt="doc-app" src="https://user-images.githubusercontent.com/31897434/74181082-e9105100-4c40-11ea-88ee-d06948ee3d9d.png">
-
+UpComing!
 
 [Live Link](https://doctor-appointment-app.herokuapp.com/)
 
